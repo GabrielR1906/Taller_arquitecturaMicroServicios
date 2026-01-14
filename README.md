@@ -1,3 +1,5 @@
+Implementación del servicio #19 (Email Service) corriendo en el puerto 8021 e integrado al Gateway en el puerto 8000.
+
 # Arquitectura de Microservicios con Lumen
 
 Este proyecto implementa una arquitectura de microservicios utilizando Laravel Lumen para gestionar autores y libros, con un API Gateway que actúa como punto de entrada único para todos los servicios.
